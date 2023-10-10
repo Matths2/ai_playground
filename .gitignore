@@ -1,8 +1,8 @@
 .env
 .DS_Store
-_bak.*
 /embeddings/results/
 !/embeddings/
+**/_bak.*
 # Ignore the sensitive_data folder
 /datasets/sensitive_data/
 # Allow everything else under datasets/
