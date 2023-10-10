@@ -1,6 +1,6 @@
 # ai_playground
 
-Just playing around with openai embeddings with dummy data from kaggle,
+Just playing around with openai/llama2 embeddings with dummy data from kaggle,
 [football transfer news articles](https://www.kaggle.com/datasets/crxxom/football-transfer-news-for-nlp).
 
 - `get_embeddings.ipynb` create embeddings using openai
