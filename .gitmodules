@@ -1,0 +1,3 @@
+[submodule "finetune/sagemaker-inspiration"]
+	path = finetune/sagemaker-inspiration
+	url = git@github.com:philschmid/sagemaker-huggingface-llama-2-samples.git
