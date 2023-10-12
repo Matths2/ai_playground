@@ -1,0 +1,29 @@
+[
+  {
+    "part": {
+      "id": null,
+      "slug": null,
+      "mpn": null,
+      "genericMpn": null,
+      "name": null,
+      "shortDescription": null,
+      "octopartUrl": null,
+      "v3uid": null,
+      "counts": {
+        "companion_products": null,
+        "datasheets": null,
+        "descriptions": null,
+        "images": null,
+        "reference_designs": null,
+        "similar_parts": null,
+        "specs": null
+      },
+      "totalAvail": null,
+      "avgAvail": null,
+      "manufacturer": {
+        "id": null,
+        "name": null
+      }
+    }
+  }
+]

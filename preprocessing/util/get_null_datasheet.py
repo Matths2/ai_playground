@@ -3,13 +3,18 @@ import json
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
-input_file = os.path.join(script_dir, 'sensitive_data', 'example.json')
-output_file = os.path.join(script_dir, 'sensitive_data', '_example.json')
+input_file = os.path.join(
+    script_dir, "..", "..", "datasets", "sensitive_data", "example.json"
+)
+output_file = os.path.join(
+    script_dir, "..", "..", "datasets", "sensitive_data", "_example.json"
+)
 
-with open(input_file, 'r') as json_file:
+with open(input_file, "r") as json_file:
     data = json.load(json_file)
 
 
+# scrub all data from json file
 def replace_with_none(obj):
     if isinstance(obj, dict):
         for key in obj:
@@ -24,5 +29,5 @@ def replace_with_none(obj):
 
 data = replace_with_none(data)
 
-with open(output_file, 'w') as json_file:
+with open(output_file, "w") as json_file:
     json.dump(data, json_file, indent=2)

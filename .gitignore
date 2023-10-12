@@ -1,10 +1,7 @@
 .env
 .DS_Store
-/.vscode
 /embeddings/results/
 !/embeddings/
-# Ignore _bak.* files globally
-**/*_bak.*
 # Ignore the sensitive_data folder
 /datasets/sensitive_data/
 # Allow everything else under datasets/

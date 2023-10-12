@@ -1,0 +1,121 @@
+[
+  {
+    "part": {
+      "id": null,
+      "slug": null,
+      "mpn": null,
+      "genericMpn": null,
+      "name": null,
+      "shortDescription": null,
+      "octopartUrl": null,
+      "v3uid": null,
+      "counts": {
+        "companion_products": null,
+        "datasheets": null,
+        "descriptions": null,
+        "images": null,
+        "reference_designs": null,
+        "similar_parts": null,
+        "specs": null
+      },
+      "totalAvail": null,
+      "avgAvail": null,
+      "manufacturer": {
+        "id": null,
+        "name": null
+      },
+      "specs": [
+        {
+          "attribute": {
+            "valueType": null,
+            "name": null
+          },
+          "value": null,
+          "units": null
+        }
+      ],
+      "descriptions": [
+        {
+          "text": null,
+          "creditString": null,
+          "creditUrl": null
+        }
+      ],
+      "estimatedFactoryLeadDays": null,
+      "category": {
+        "name": null,
+        "numParts": null,
+        "parentId": null,
+        "path": null,
+        "relevantAttributes": [
+          {
+            "name": null,
+            "shortname": null,
+            "group": null,
+            "valueType": null,
+            "unitsName": null,
+            "unitsSymbol": null,
+            "__typename": null
+          }
+        ],
+        "blurb": {
+          "name": null,
+          "pathName": null,
+          "description": null,
+          "content": null,
+          "__typename": null
+        },
+        "ancestors": [
+          {
+            "name": null,
+            "numParts": null,
+            "parentId": null,
+            "path": null,
+            "relevantAttributes": [
+              {
+                "name": null,
+                "shortname": null,
+                "group": null,
+                "valueType": null,
+                "unitsName": null,
+                "unitsSymbol": null,
+                "__typename": null
+              }
+            ]
+          }
+        ]
+      },
+      "bestDatasheet": {
+        "name": null,
+        "pageCount": null,
+        "createdAt": null,
+        "url": null,
+        "creditString": null,
+        "creditUrl": null,
+        "mimeType": null
+      },
+      "documentCollections": [
+        {
+          "name": null,
+          "documents": [
+            {
+              "name": null,
+              "pageCount": null,
+              "createdAt": null,
+              "url": null,
+              "creditString": null,
+              "creditUrl": null,
+              "mimeType": null,
+              "__typename": null
+            }
+          ]
+        }
+      ],
+      "medianPrice1000": {
+        "conversionRate": null,
+        "convertedCurrency": null,
+        "convertedPrice": null
+      }
+    }
+  }
+]
