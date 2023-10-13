@@ -1,0 +1,765 @@
+nstruction: What are the specs for mpn 1-329631-2?
+context: 
+response: 
+TE Connectivity 1-329631-2 description: Connector Accessories Jam Nut Straight Brass Silver Box/Carton
+Here are some additional specs:
+   * Body Material: Brass 
+   * Color: Silver 
+   * Connector Type: BNC 
+   * Contact Material: Brass, Silver 
+   * Contact Plating: Silver 
+   * Depth: 14.1 mm
+   * Height: 2.39 mm
+   * Lead Free: Lead Free 
+   * Lifecycle Status: Production 
+   * Manufacturer Lifecycle Status: ACTIVE 
+   * Material: Brass 
+   * Mount: Jam Nut 
+   * Packaging: Box 
+   * Plating: Gold, Nickel 
+   * Polarity: Normal 
+   * Polarized: No 
+   * Radiation Hardening: No 
+   * REACH SVHC: No SVHC 
+   * RoHS: Compliant 
+   * Termination: Screw 
+   * Thickness: 2.7686 mm
+   * Width: 15.8242 mm
+
+instruction: What documentation is available for mpn 1-329631-2?
+context: 
+response: 
+Datasheet available for TE Connectivity 1-329631-2:
+   * name: Datasheet
+   * pageCount: 34
+   * url: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-512981.pdf
+   * creditString: Newark
+   * creditUrl: http://www.newark.com
+
+Additional documents:
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 34
+   * URL: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-512981.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 34
+   * URL: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-41480268.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: TE Connectivity
+   * Document Name: Technical Drawing
+   * Page Count: 1
+   * URL: https://sigma.octopart.com/14435288/technical_drawing/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: TE Connectivity
+   * Document Name: Technical Drawing
+   * Page Count: 1
+   * URL: https://sigma.octopart.com/136672236/technical_drawing/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 34
+   * URL: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-128381606.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: Upverter
+   * Document Name: Technical Drawing
+   * Page Count: 1
+   * URL: https://sigma.octopart.com/137910679/technical_drawing/TE-Connectivity-1-329631-2.pdf
+   * Credit String: Upverter
+   * Credit URL: https://upverter.com/
+   * Collection Name: Farnell
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/1-329631-2-Tyco-Electronics-datasheet-654201.pdf
+   * Credit String: Farnell
+   * Credit URL: http://www.farnell.com/
+   * Collection Name: Farnell
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/1-329631-2-Tyco-Electronics-datasheet-11478823.pdf
+   * Credit String: Farnell
+   * Credit URL: http://www.farnell.com/
+   * Collection Name: Burklin Elektronik
+   * Document Name: Datasheet
+   * Page Count: 34
+   * URL: https://datasheet.octopart.com/1-329631-2-AMP-datasheet-165055258.pdf
+   * Credit String: Burklin Elektronik
+   * Credit URL: https://www.buerklin.com/en/
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-37974818.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/1-329631-2-Tyco-Electronics-datasheet-14506690.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/1-329631-2-Tyco-Electronics-datasheet-9563700.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/1-329631-2-Tyco-Electronics-datasheet-54247.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: Jameco
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/1-329631-2-TE-Connectivity-datasheet-7558864.pdf
+   * Credit String: Jameco
+   * Credit URL: http://www.jameco.com
+   * Collection Name: Compliance Statements
+   * Document Name: Rohs Statement
+   * Page Count: 2
+   * URL: http://sigma.octopart.com/14518794/rohs_statement/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Compliance Statements
+   * Document Name: Materials Sheet
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/38771765/materials_sheet/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Compliance Statements
+   * Document Name: Materials Sheet
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/77879434/materials_sheet/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Compliance Statements
+   * Document Name: Reach Statement
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/117256993/reach_statement/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Compliance Statements
+   * Document Name: Materials Sheet
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/136672235/materials_sheet/TE-Connectivity-1-329631-2.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+
+instruction: What are the specs for mpn AD811JRZ?
+context: 
+response: 
+Analog Devices AD811JRZ description: Operational Amplifier, 1 Func, 5000uV Offset-Max, PDSO8
+Here are some additional specs:
+   * -3db Bandwidth: 140 MHz
+   * Bandwidth: 140 MHz
+   * Case/Package: R 
+   * Common Mode Rejection Ratio: 60 dB
+   * Contact Plating: Tin 
+   * Dual Supply Voltage: 15 V
+   * Height: 1.5 mm
+   * Input Bias Current: 2 µA
+   * Input Capacitance: 7.5 pF
+   * Input Offset Voltage (Vos): 3 mV
+   * Lead Free: Contains Lead 
+   * Length: 5 mm
+   * Lifecycle Status: Production 
+   * Manufacturer Lifecycle Status: PRODUCTION 
+   * Max Dual Supply Voltage: 18 V
+   * Max Operating Temperature: 125 °C
+   * Max Supply Voltage: 18 V
+   * Min Dual Supply Voltage: 4.5 V
+   * Min Operating Temperature: -55 °C
+   * Min Supply Voltage: 4.5 V
+   * Nominal Supply Current: 16.5 mA
+   * Number of Amplifiers: 1 
+   * Number of Channels: 1 
+   * Number of Circuits: 1 
+   * Number of Elements: 1 
+   * Number of Pins: 8 
+   * Operating Supply Current: 16 mA
+   * Output Current: 100 mA
+   * Output Current per Channel: 100 mA
+   * Power Supply Rejection Ratio (PSRR): 70 dB
+   * Quiescent Current: 16 mA
+   * Radiation Hardening: No 
+   * REACH SVHC: No SVHC 
+   * RoHS: Compliant 
+   * Schedule B: 8542330000, 8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000, 8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000, 8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000|8542330000 
+   * Settling Time: 25 ns
+   * Slew Rate: 2500 V/µs
+   * Supply Type: Dual 
+   * Width: 4 mm
+
+instruction: What documentation is available for mpn AD811JRZ?
+context: 
+response: 
+Datasheet available for Analog Devices AD811JRZ:
+   * name: Official datasheet
+   * pageCount: None
+   * url: https://octopart.com/opatz8j6/c1?t=T-Egwx0ZWd2H_mIlpg_yMTHPkcSIdgNHaRuYIJxvMB_sj3UIJupX8J-qULLETmQb12VUuw0L1Dj7JEaoTpM3PyuPWcWy-Z6kaj_8qwi0csjr8kregXEwIwPz9aVKF21w20Pl57kDhvNiWclNXLJW3ZfSfd8Fbr7XGcJUHbIGJgN-Pw7_fYmDMxqieGiMesnV7Y4R-PwhJX2Xosme-1MXTY4V1t2-ABVTi5Pxe0vtfAtC3H3nZ8vU1ow7Zj6I1I0RaRmswsDQm06aov9iJOWFK5LlAkw1cXQ2mJIkSVPzLwKXamMl8Q
+   * creditString: Analog Devices
+   * creditUrl: http://www.analog.com/
+
+Additional documents:
+   * Collection Name: Analog Devices
+   * Document Name: Official datasheet
+   * Page Count: None
+   * URL: https://octopart.com/opatz8j6/c1?t=jz3hjSjeXxoyjCQ56SN8ivMZS6QN29gz5BCU21zcexy0OUx7R-0CDufgW-o99mrpBZgk6Nd93EzKOjbg53ZpWxzFVzMbLhoZd5mkeAhV24Wh34n4An9FI4kJThVg264LQo2Amo1YTl7Ri3zZ3A-RK_7B-ew0BfnKtdR2sSXUeOOjKikkw-FY7NCaI9m3Yqlavmt2cqAKaPBJQzesBh4sAC_JXAgRTxCMZg_LUOjJYXknjOnA4LX-shunkl89JMwAeP6kKHFh6wW9hqIhJKXHjrvjm5uIUb54yDUbiuP_EqkBAMd4qA
+   * Credit String: Analog Devices
+   * Credit URL: http://www.analog.com/
+   * Collection Name: Analog Devices
+   * Document Name: Datasheet
+   * Page Count: 11
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-10545950.pdf
+   * Credit String: Analog Devices
+   * Credit URL: http://www.analog.com/
+   * Collection Name: Upverter
+   * Document Name: Datasheet
+   * Page Count: 20
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-11702.pdf
+   * Credit String: Upverter
+   * Credit URL: https://upverter.com/
+   * Collection Name: Upverter
+   * Document Name: Datasheet
+   * Page Count: 21
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-23752864.pdf
+   * Credit String: Upverter
+   * Credit URL: https://upverter.com/
+   * Collection Name: element14 APAC
+   * Document Name: Datasheet
+   * Page Count: 21
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-81092267.pdf
+   * Credit String: element14 APAC
+   * Credit URL: http://www.element14.com/
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 20
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-140480242.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: iiiC
+   * Document Name: Datasheet
+   * Page Count: 20
+   * URL: https://datasheet.octopart.com/AD811JRZ-Analog-Devices-datasheet-14142728.pdf
+   * Credit String: iiiC
+   * Credit URL: http://iiic.cc/
+   * Collection Name: Compliance Statements
+   * Document Name: Conflict Mineral Statement
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/conflict_mineral_statement/Analog-Devices-company-33.pdf
+   * Credit String: 
+   * Credit URL: 
+   * Collection Name: Compliance Statements
+   * Document Name: Official datasheet
+   * Page Count: None
+   * URL: https://octopart.com/opatz8j6/c1?t=75LEK2Z10AEcWKav3T_PZA70v6eXxt-4u-1x1fC26nOZbJFpfsU5I8FIT4lU04aphdbUoVR_ISQ-v29xcS9H8lBFtKzfF2oEY-IF6aWsXEhycSLxSP4oGC92oJWtPVdaRaT_w6cwMa6WYcYW6cjce2xOwAw2HWeTk_QOCB36n-v0-vfXcDmXQyO-KCtXxyRZ8TULx8Q23KhGOD8iDiEz3cy5E0--JupPIVIHqDAktfxfP4PR1qoiT6aYwGiCS7UFEzex2MvXg2c7hzVd8DWmVDOigkURsflQeHVwTxA4_NsVSY_W6w
+   * Credit String: Analog Devices
+   * Credit URL: http://www.analog.com/
+
+instruction: What are the specs for mpn RK73H2ATTD4991F?
+context: 
+response: 
+KOA Speer RK73H2ATTD4991F description: Res Thick Film 0805 4.99K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R
+Here are some additional specs:
+   * Case/Package: 0805 
+   * Case Code (Imperial): 0805 
+   * Case Code (Metric): 2012 
+   * Composition: Thick Film 
+   * Depth: 1.25 mm
+   * Height: 500 µm
+   * Lead Free: Lead Free 
+   * Length: 2 mm
+   * Max Operating Temperature: 155 °C
+   * Military Standard: Not 
+   * Min Operating Temperature: -55 °C
+   * Mount: Surface Mount 
+   * Number of Pins: 2 
+   * Power Rating: 125 mW
+   * Resistance: 4.99 kΩ
+   * RoHS: Compliant 
+   * Schedule B: 8533210045, 8533210045|8533210045|8533210045|8533210045|8533210045 
+   * Temperature Coefficient: 100 ppm/°C
+   * Termination: SMD/SMT 
+   * Tolerance: 1 %
+   * Voltage Rating: 150 V
+   * Voltage Rating (DC): 150 V
+   * Width: 1.25 mm
+
+instruction: What documentation is available for mpn RK73H2ATTD4991F?
+context: 
+response: 
+Datasheet available for KOA Speer RK73H2ATTD4991F:
+   * name: Datasheet
+   * pageCount: 2
+   * url: https://datasheet.octopart.com/RK73H2ATTD4991F.-KOA-Speer-datasheet-149653815.pdf
+   * creditString: Farnell
+   * creditUrl: http://www.farnell.com/
+
+Additional documents:
+   * Collection Name: Farnell
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F.-KOA-Speer-datasheet-149653815.pdf
+   * Credit String: Farnell
+   * Credit URL: http://www.farnell.com/
+   * Collection Name: Upverter
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F-KOA-Speer-datasheet-11590619.pdf
+   * Credit String: Upverter
+   * Credit URL: https://upverter.com/
+   * Collection Name: 
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H-%7C-Flat-Chip-Resistors-%28Precision-Grade%29-KOA-Speer-datasheet-family-85.pdf
+   * Credit String: 
+   * Credit URL: 
+   * Collection Name: element14 APAC
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F-KOA-Speer-datasheet-10854116.pdf
+   * Credit String: element14 APAC
+   * Credit URL: http://www.element14.com/
+   * Collection Name: Garrett
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F-KOA-Speer-datasheet-5377218.pdf
+   * Credit String: Garrett
+   * Credit URL: http://www.garrettelec.com
+   * Collection Name: Garrett
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F-KOA-Speer-datasheet-5377169.pdf
+   * Credit String: Garrett
+   * Credit URL: http://www.garrettelec.com
+   * Collection Name: Garrett
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/RK73H2ATTD4991F-KOA-Speer-datasheet-109221.pdf
+   * Credit String: Garrett
+   * Credit URL: http://www.garrettelec.com
+   * Collection Name: Compliance Statements
+   * Document Name: Rohs Statement
+   * Page Count: 4
+   * URL: http://sigma.octopart.com/rohs_certificate/RK73H-%7C-Flat-Chip-Resistors-%28Precision-Grade%29-KOA-Speer-family-91.pdf
+   * Credit String: 
+   * Credit URL: 
+
+instruction: What are the specs for mpn K4D263238M-QC50?
+context: 
+response: 
+Samsung K4D263238M-QC50 description: Ddr Dram, 4MX32, 0.7NS, Cmos, PQFP100, 20 X 14 Mm, 0.65 Mm Pitch, TQFP-100
+Here are some additional specs:
+   * Case/Package: PQFP 
+   * RoHS: Non-Compliant 
+
+instruction: What documentation is available for mpn K4D263238M-QC50?
+context: 
+response: 
+Datasheet available for Samsung K4D263238M-QC50:
+   * name: Datasheet
+   * pageCount: 19
+   * url: https://datasheet.octopart.com/K4D263238M-QC50-Samsung-datasheet-17924906.pdf
+   * creditString: iiiC
+   * creditUrl: http://iiic.cc/
+
+Additional documents:
+   * Collection Name: iiiC
+   * Document Name: Datasheet
+   * Page Count: 19
+   * URL: https://datasheet.octopart.com/K4D263238M-QC50-Samsung-datasheet-17924906.pdf
+   * Credit String: iiiC
+   * Credit URL: http://iiic.cc/
+
+instruction: What are the specs for mpn 650074-000?
+context: 
+response: 
+TE Connectivity 650074-000 description: Splice Terminal Butt Splice Terminal 26AWG to 20AWG 12.95mm Tin Bag/Box
+Here are some additional specs:
+   * Body Plating: Tin 
+   * Color: Red, Blue 
+   * Contact Material: Copper 
+   * Contact Plating: Tin 
+   * Diameter: 2.03 mm
+   * ELV: Compliant 
+   * Government Qualified: Yes 
+   * Heavy Duty: No 
+   * Inside Diameter: 1.2 mm
+   * Insulation: Insulated 
+   * Insulation Material: PVDF 
+   * Lead Free: Not Applicable 
+   * Length: 27.94 mm
+   * Lifecycle Status: Production 
+   * Manufacturer Lifecycle Status: ACTIVE 
+   * Material: PVDF, Polyvinylidene 
+   * Max Operating Temperature: 135 °C
+   * Min Operating Temperature: -55 °C
+   * Mount: Socket 
+   * Number of Wire Entries: 2 
+   * Packaging: Bulk 
+   * REACH SVHC: No SVHC 
+   * RoHS: Compliant 
+   * Schedule B: 8536904000|8536904000|8536904000|8536904000|8536904000 
+   * Sealable: Yes 
+   * Termination: Crimp 
+   * Thickness: 760 µm
+   * Wire/Cable Gauge: 26 AWG
+   * Wire/Cable Type: Insulated Wire 
+   * Wire Gauge (Max): 26 AWG
+   * Wire Gauge (Min): 20 AWG
+
+instruction: What documentation is available for mpn 650074-000?
+context: 
+response: 
+Datasheet available for TE Connectivity 650074-000:
+   * name: Technical Drawing
+   * pageCount: 3
+   * url: https://sigma.octopart.com/78326194/technical_drawing/TE-Connectivity-650074-000.pdf
+   * creditString: Burklin Elektronik
+   * creditUrl: https://www.buerklin.com/en/
+
+Additional documents:
+   * Collection Name: Burklin Elektronik
+   * Document Name: Technical Drawing
+   * Page Count: 3
+   * URL: https://sigma.octopart.com/78326194/technical_drawing/TE-Connectivity-650074-000.pdf
+   * Credit String: Burklin Elektronik
+   * Credit URL: https://www.buerklin.com/en/
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 4
+   * URL: https://datasheet.octopart.com/650074-000-TE-Connectivity-datasheet-41213458.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/D-436-36-TE-Connectivity---Raychem-datasheet-27088621.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: Electro Sonic
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/650074-000-TE-Connectivity-datasheet-140967094.pdf
+   * Credit String: Electro Sonic
+   * Credit URL: http://www.e-sonic.com/
+   * Collection Name: Electro Sonic
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/D-436-36-TE-Connectivity---Raychem-datasheet-44415453.pdf
+   * Credit String: Electro Sonic
+   * Credit URL: http://www.e-sonic.com/
+   * Collection Name: TE Connectivity
+   * Document Name: Technical Drawing
+   * Page Count: 2
+   * URL: https://sigma.octopart.com/13713683/technical_drawing/TE-Connectivity-650074-000.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/D-436-36-Raychem-datasheet-11772155.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/D-436-36-Tyco-Electronics-datasheet-5395682.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Peerless Electronics
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/650074-000-TE-Connectivity-datasheet-27724359.pdf
+   * Credit String: Peerless Electronics
+   * Credit URL: http://www.peerlesselectronics.com/
+   * Collection Name: Sager Electronics
+   * Document Name: Datasheet
+   * Page Count: 3
+   * URL: https://datasheet.octopart.com/650074-000-TE-Connectivity---Raychem-datasheet-169170772.pdf
+   * Credit String: Sager Electronics
+   * Credit URL: http://www.sager.com/
+   * Collection Name: Sager Electronics
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/D-436-36-TE-Connectivity---Raychem-datasheet-155359449.pdf
+   * Credit String: Sager Electronics
+   * Credit URL: http://www.sager.com/
+   * Collection Name: Future Electronics
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/650074-000-TE-Connectivity-datasheet-147572642.pdf
+   * Credit String: Future Electronics
+   * Credit URL: http://futureelectronics.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 3
+   * URL: https://datasheet.octopart.com/D-436-36-Raychem-datasheet-21073288.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/6-1195131-3-TE-Connectivity-datasheet-111043211.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 1
+   * URL: https://datasheet.octopart.com/D-436-36-Tyco-Electronics-datasheet-9658279.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: Compliance Statements
+   * Document Name: Rohs Statement
+   * Page Count: 1
+   * URL: http://sigma.octopart.com/14506141/rohs_certificate/Tyco-Electronics-650074-000.pdf
+   * Credit String: TE Connectivity
+   * Credit URL: http://www.te.com/
+
+instruction: What are the specs for mpn H11D1?
+context: 
+response: 
+Vishay H11D1 description: Optocoupler DC-IN 1-CH Transistor With Base DC-OUT 6-Pin PDIP
+Here are some additional specs:
+   * Forward Current: 60 mA
+   * Input Current: 10 mA
+   * Isolation Voltage: 5.3 kV
+   * Number of Channels: 1 
+   * Number of Pins: 6 
+   * Output Voltage: 300 V
+   * RoHS: Compliant 
+   * Schedule B: 8541408000, 8541408000|8541408000|8541408000|8541408000|8541408000 
+   * Voltage Rating (DC): 1.1 V
+
+instruction: What documentation is available for mpn H11D1?
+context: 
+response: 
+Datasheet available for Vishay H11D1:
+   * name: Datasheet
+   * pageCount: 8
+   * url: https://datasheet.octopart.com/H11D1-Vishay-datasheet-8525115.pdf
+   * creditString: Farnell
+   * creditUrl: http://www.farnell.com/
+
+Additional documents:
+   * Collection Name: Farnell
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-datasheet-8525115.pdf
+   * Credit String: Farnell
+   * Credit URL: http://www.farnell.com/
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 3
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-datasheet-20951.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Future Electronics
+   * Document Name: Datasheet
+   * Page Count: 10
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-datasheet-145015788.pdf
+   * Credit String: Future Electronics
+   * Credit URL: http://futureelectronics.com
+   * Collection Name: iiiC
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-datasheet-14189979.pdf
+   * Credit String: iiiC
+   * Credit URL: http://iiic.cc/
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-Siliconix-datasheet-62126217.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: TME
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/H11D1-Vishay-datasheet-21629304.pdf
+   * Credit String: TME
+   * Credit URL: http://www.tme.eu/en/
+   * Collection Name: Compliance Statements
+   * Document Name: Rohs Statement
+   * Page Count: 5
+   * URL: http://sigma.octopart.com/rohs_statement/Vishay-company-15.pdf
+   * Credit String: 
+   * Credit URL: 
+
+instruction: What are the specs for mpn G2RL-14-E-CF-DC24?
+context: 
+response: 
+Omron G2RL-14-E-CF-DC24 description: Electromechanical Relay SPDT 16A 24VDC 1.44KOhm Through Hole
+Here are some additional specs:
+   * Ambient Temperature Range High: 85 °C
+   * Case/Package: DIP 
+   * Coil Current: 16.7 mA
+   * Coil Power: 400 mW
+   * Coil Resistance: 1.44 kΩ
+   * Coil Type: Non-Latching 
+   * Coil Voltage (DC): 24 V
+   * Contact Current Rating: 16 A
+   * Contact Material: Cadmium, Silver 
+   * Current Rating: 16.7 mA
+   * Height: 15.7 mm
+   * Lead Free: Lead Free 
+   * Max Current Rating: 16 A
+   * Max Operating Temperature: 85 °C
+   * Max Voltage Rating (AC): 440 V
+   * Max Voltage Rating (DC): 300 V
+   * Min Operating Temperature: -40 °C
+   * Mount: Through Hole 
+   * Number of Contacts: 1 
+   * Number of Pins: 8 
+   * Operate Time: 15 ms
+   * Power Consumption: 53 mW
+   * Power Rating: 400 mW
+   * Radiation Hardening: No 
+   * Relay Type: General Purpose 
+   * Release Time: 5 ms
+   * RoHS: Compliant 
+   * Switching Current: 16 A
+   * Termination: PC Pin 
+   * Throw Configuration: SPDT 
+   * Weight: 12 g
+   * Width: 12.7 mm
+
+instruction: What documentation is available for mpn G2RL-14-E-CF-DC24?
+context: 
+response: 
+Datasheet available for Omron G2RL-14-E-CF-DC24:
+   * name: Datasheet
+   * pageCount: 6
+   * url: https://datasheet.octopart.com/G2RL14ECFDC24-Omron-datasheet-10910117.pdf
+   * creditString: Omron
+   * creditUrl: http://www.omron.com/
+
+Additional documents:
+   * Collection Name: Omron
+   * Document Name: Datasheet
+   * Page Count: 6
+   * URL: https://datasheet.octopart.com/G2RL14ECFDC24-Omron-datasheet-10910117.pdf
+   * Credit String: Omron
+   * Credit URL: http://www.omron.com/
+   * Collection Name: Sager Electronics
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-16972895.pdf
+   * Credit String: Sager Electronics
+   * Credit URL: http://www.sager.com/
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-41178912.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 6
+   * URL: https://datasheet.octopart.com/G2RL14ECFDC24BYOMB-Omron-datasheet-17727905.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-151868985.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-9575508.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: RS (Formerly Allied Electronics)
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-4629.pdf
+   * Credit String: RS (Formerly Allied Electronics)
+   * Credit URL: http://alliedelec.com
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 6
+   * URL: https://datasheet.octopart.com/G2RL14ECFDC24-Omron-datasheet-68582952.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Newark
+   * Document Name: Datasheet
+   * Page Count: 5
+   * URL: https://datasheet.octopart.com/G2RL14ECFDC24-Omron-datasheet-41282665.pdf
+   * Credit String: Newark
+   * Credit URL: http://www.newark.com
+   * Collection Name: Upverter
+   * Document Name: Datasheet
+   * Page Count: 6
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-148865573.pdf
+   * Credit String: Upverter
+   * Credit URL: https://upverter.com/
+   * Collection Name: element14
+   * Document Name: Datasheet
+   * Page Count: 8
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-7538028.pdf
+   * Credit String: element14
+   * Credit URL: http://www.element-14.com
+   * Collection Name: DigiKey
+   * Document Name: Datasheet
+   * Page Count: 9
+   * URL: https://datasheet.octopart.com/G2RL-14-E-CF-DC24-Omron-datasheet-134233.pdf
+   * Credit String: DigiKey
+   * Credit URL: http://www.digikey.com
+
+instruction: What are the specs for mpn 586-6402-105F?
+context: 
+response: 
+Dialight 586-6402-105F description: LED Modules Uni-Color Green 526nm 2-Pin
+Here are some additional specs:
+   * Color: Green 
+   * Element Configuration: Single 
+   * Forward Current: 13 mA
+   * Forward Voltage: 28 V
+   * Illumination Color: Green 
+   * Lens Style: Circular 
+   * Luminous Intensity: 3.6 cd
+   * Max Operating Temperature: 85 °C
+   * Min Operating Temperature: -30 °C
+   * Number of Pins: 2 
+   * Operating Supply Voltage: 28 V
+   * RoHS: Compliant 
+   * Voltage Rating: 28 V
+   * Wavelength: 526 nm
+
+instruction: What documentation is available for mpn 586-6402-105F?
+context: 
+response: 
+Datasheet available for Dialight 586-6402-105F:
+   * name: Datasheet
+   * pageCount: 2
+   * url: https://datasheet.octopart.com/586-6402-105F-Dialight-datasheet-8498145.pdf
+   * creditString: Master Electronics
+   * creditUrl: http://masterdistributors.com/
+
+Additional documents:
+   * Collection Name: Master Electronics
+   * Document Name: Datasheet
+   * Page Count: 2
+   * URL: https://datasheet.octopart.com/586-6402-105F-Dialight-datasheet-8498145.pdf
+   * Credit String: Master Electronics
+   * Credit URL: http://masterdistributors.com/
+   * Collection Name: Compliance Statements
+   * Document Name: Reach Statement
+   * Page Count: 2
+   * URL: http://sigma.octopart.com/reach_statement/Dialight-company-7.pdf
+   * Credit String: 
+   * Credit URL: 
+   * Collection Name: Compliance Statements
+   * Document Name: Rohs Statement
+   * Page Count: 5
+   * URL: http://sigma.octopart.com/rohs_statement/Dialight-company-8.pdf
+   * Credit String: 
+   * Credit URL: 
